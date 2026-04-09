@@ -29,7 +29,7 @@ def stream_response(text):
 
 #------Sidebar------#
 with st.sidebar:
-    st.title("🎬 VidSynth AI")
+    st.title("🎬 Learnify AI")
     st.markdown("---")
 
     youtube_url = st.text_input("YouTube URL")
