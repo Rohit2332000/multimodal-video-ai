@@ -25,4 +25,3 @@ sentence-transformers
 torch
 requests
 
-HuggingFaceEmbeddings
